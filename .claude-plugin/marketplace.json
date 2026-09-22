@@ -1,0 +1,11 @@
+{
+  "name": "HT-offer-chain",
+  "owner": {
+    "name": "Haemers-technologies"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins Haemers Technologies",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
