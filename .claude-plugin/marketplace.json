@@ -7,5 +7,10 @@
     "description": "Marketplace de plugins Haemers Technologies",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+  {
+    "name": "offer-chain",
+    "source": "./offer-chain-plugin",
+    "description": "Ce que fait le plugin"
+  }]
 }
